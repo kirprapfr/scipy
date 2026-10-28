@@ -15,7 +15,7 @@ just once before you start modifying SciPy.
 
 #. In a terminal, introduce yourself to Git::
 
-      git config --global user.email you@yourdomain.com
+      git config --global user.email "you@yourdomain.com"
       git config --global user.name "Your Name"
 
    This information credits you for your work, but note that it will become
